@@ -1,3 +1,34 @@
+# Title: Solar Gram - A Smart Energy Monitoring and Awareness Platform for Rural Areas
+
+The name "Solar Gram" was chosen because it directly represents the purpose of the project: “Solar” stands for the focus on renewable energy, and “Gram” (village in Hindi) signifies the platform’s target audience — rural communities. The title is meaningful and communicates the essence of the project.
+
+# This title is important for several reasons:
+
+Clarity and Relevance: It immediately tells the viewer that the project is related to solar energy and rural development.
+
+Social Impact: It highlights that the project aims at social empowerment through sustainable technology.
+
+Focus on Digital Innovation: It suggests a blend of modern tech with traditional settings.
+
+The title not only acts as an identity but also sets the tone for development and presentation, making it easier to define goals and scope.
+
+
+
+
+
+# DEM0- https://solargram.netlify.app/
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
